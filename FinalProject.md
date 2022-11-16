@@ -1,5 +1,49 @@
 # Final Project
 
+
+## Team
+
+Alan Hsieh - amh425
+
+Henry Wu - hw574
+
+Tsung-Yin Hsieh - th542
+
+
+## Project Plan
+
+### Big Idea
+
+We are building a Party Christmas Tree which is a must for us to have a party. The party Christmas Tree will vibrate when seeing people dancing in front of it. And people can control the lights and music of trees by MQTT. Furthermore, the tree can detect the age of the person and give different interactions (e.g. ask a child to take gifts when they detect a child passing by). We believe that this tree is the tree that everyone needs at home.
+
+### Timeline
+
+11/22: Confirm the materials we need for Raspberry Pi
+
+11/29: Finish Function Design/Test
+
+12/06: Final Presentation
+
+### Parts Needed
+
+- Interactive Christmas Tree with Light, Vibration and Music
+- Sensors: Webcam, Microphone
+- Control: Buttons, Rotate Encoder, MQTT, servo motor
+
+
+### Risks/Contingencies
+
+
+
+### Fall-back Plan
+
+
+Here is what we are going to present in the class:
+
+![This is an image]()
+
+
+
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
 Project plan - November 15
